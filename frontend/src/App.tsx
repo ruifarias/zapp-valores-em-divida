@@ -84,7 +84,7 @@ function App() {
   return (
     <div className="container">
       <div className="header">
-        <h1>Valores em Divida - Documentos em aberto de fornecedores em: {formatDate(new Date())}</h1>
+        <h1>CLÁSSICO DESPORTIVO - Valores em Divida - Documentos em aberto de fornecedores em: {formatDate(new Date())}</h1>
       </div>
 
       {resumo && (
